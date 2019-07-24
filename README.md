@@ -1,2 +1,1 @@
-# Quebec
-Data and code for article on Quebec biomass modeling
+This repository contains the source data: Table of 32552 patch-year observations with biomass and basal area, computed by Jean Lienard from raw data taken from www.mffp.gouv.qc.ca We also have the code here used for the article. 
